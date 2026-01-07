@@ -59,8 +59,7 @@ Repository ini menggunakan konsep **Monorepo**. Setiap folder mewakili satu mate
 
 1. Clone repository ini:
 ```bash
-git clone [https://github.com/USERNAME-GITHUB-ANDA/belajar-golang-dasar.git](https://github.com/USERNAME-GITHUB-ANDA/belajar-golang-dasar.git)
-
+git clone https://github.com/nafisfhkr/Belajar-Golang.git
 ```
 
 
