@@ -44,7 +44,6 @@ Repository ini menggunakan konsep **Monorepo**. Setiap folder mewakili satu mate
 ├── 03-function/        # Logika function & pointer
 ├── 04-interface/       # Implementasi interface
 ├── 05-unit-test/       # Belajar go test
-└── projects/           # Mini-project (Aplikasi CLI, API Sederhana)
 
 ```
 
@@ -88,5 +87,3 @@ go run main.go
 *Dibuat oleh nafis.fakhru*
 
 ```
-
----
